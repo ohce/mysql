@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MailSolt_Server", "MailSolt_Server\MailSolt_Server.vcxproj", "{56BFF611-397D-4583-97D0-82C851B794C0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MailSlot_Client", "MailSlot_Client\MailSlot_Client.vcxproj", "{F0D5C945-E5E3-4055-A43C-30D2740B5EC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56BFF611-397D-4583-97D0-82C851B794C0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{56BFF611-397D-4583-97D0-82C851B794C0}.Debug|Win32.Build.0 = Debug|Win32
+		{56BFF611-397D-4583-97D0-82C851B794C0}.Release|Win32.ActiveCfg = Release|Win32
+		{56BFF611-397D-4583-97D0-82C851B794C0}.Release|Win32.Build.0 = Release|Win32
+		{F0D5C945-E5E3-4055-A43C-30D2740B5EC3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F0D5C945-E5E3-4055-A43C-30D2740B5EC3}.Debug|Win32.Build.0 = Debug|Win32
+		{F0D5C945-E5E3-4055-A43C-30D2740B5EC3}.Release|Win32.ActiveCfg = Release|Win32
+		{F0D5C945-E5E3-4055-A43C-30D2740B5EC3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
